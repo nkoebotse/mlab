@@ -1,0 +1,13 @@
+{
+  "employee": [
+    { "id": 1, "Name and Surname": "elliot sekgobela", " Email address": "elliot.sekgobela@gmail.com","Phone Number": "076 078 9722","Employee position": "software developer","imageFilename":"1.jfif" },
+  
+
+ 
+    { "id": 2, "Name and Surname": "elliot sekgobela", " Email address": "elliot.sekgobela@gmail.com","Phone Number": "076 078 9722","Employee position": "software developer","imageFilename":"2.jfif" }
+
+  ]
+  
+
+
+}
